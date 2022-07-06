@@ -9,3 +9,5 @@ Some issues I ran into were more related to really understanding how to properly
 The environment and 3D assets I think was what I was most excited about as well as something I found to be what took up more of my time. Although I'd usually purchase pre-made assets, this project gave me an opportunity to actually experience and move through many of my own architectural designs and interact with many 3D assets I've created on my own.
 
 In terms of architectural design and floor planning, I used a new plugin for Rhino 3D called PlanFinder that generates floor plans based on simple area boundaries.
+
+© Copyright Planet-Z LLC 2022 All Rights Reserved
